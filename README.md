@@ -20,4 +20,4 @@ Access url printed at terminal to see application running
 
 ## home
 
-![Currency Converter]("/assets/home.png" "Currency Converter")
+![Currency Converter](/assets/home.png "Currency Converter")
