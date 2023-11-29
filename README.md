@@ -17,3 +17,7 @@ This is a currency converter project build with react.js
 Access url printed at terminal to see application running
 
 # Designs
+
+## home
+
+![Currency Converter]("/assets/home.png" "Currency Converter")

@@ -1,0 +1,50 @@
+.converter {
+  display: flex;
+  flex-direction: column;
+
+  align-items: flex-start;
+
+  padding: 4rem;
+
+  background-color: #f8f9fa;
+  border-radius: 40px;
+
+  color: rgba(0, 0, 0, 0.7);
+}
+
+.converter h2 {
+  font-size: 2rem;
+  margin-bottom: 2rem;
+}
+
+.converter input,
+select {
+  margin-bottom: 0.5rem;
+  width: 100%;
+  padding: 0.7rem 1rem;
+
+  border-radius: 5px;
+
+  background-color: #f2f2f2;
+
+  color: #242424;
+  border: none;
+  font-size: 1rem;
+}
+
+.converter input {
+  margin-bottom: 2rem;
+}
+
+.converter p {
+  font-weight: bold;
+}
+
+.converter p {
+  margin-bottom: 1rem;
+}
+
+.converter button:hover {
+  transition: 0.4s;
+  opacity: 0.6;
+}
